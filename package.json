@@ -20,7 +20,7 @@
     "@solana/web3.js": "^1.52.0"
   },
   "workspaces": [
-    "challenge1-solana"
+    "challenge1-solana",
     "challenge2-solana",
     "challenge3-solana",
     "challenge4-solana"
