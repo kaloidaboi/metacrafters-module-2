@@ -1,0 +1,28 @@
+{
+  "name": "metacrafters-module-2",
+  "version": "1.0.0",
+  "description": "Metacrafters Module 2 Challenge",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaloidaboi/metacrafters-module-2.git"
+  },
+  "keywords": [],
+  "author": "carlos.gonzaga@netgies.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaloidaboi/metacrafters-module-2/issues"
+  },
+  "homepage": "https://github.com/kaloidaboi/metacrafters-module-2#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.52.0"
+  },
+  "workspaces": [
+    "challenge1-solana"
+    "challenge2-solana",
+    "challenge3-solana",
+    "challenge4-solana"
+  ]
+}
